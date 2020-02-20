@@ -11,9 +11,9 @@ title: 星合の空
   - **wu.kan@foxmail.com**
   - **wukan3@mail2.sysu.edu.cn**
   - **im.wu.kan@gmail.com**
-- WeChat: **测试**
-- QQ: **测试**
-- Site: **<https://wu-kan.cn>**
+- WeChat: **测试1**
+- QQ: **测试1**
+- Site: **测试1**
 
 ## Education
 
