@@ -12,7 +12,7 @@ title: 星合の空
   - **wukan3@mail2.sysu.edu.cn**
   - **im.wu.kan@gmail.com**
 - WeChat: **Wu-\_-Kan**
-- QQ: **942759535**
+- QQ: **测试**
 - Site: **<https://wu-kan.cn>**
 
 ## Education
